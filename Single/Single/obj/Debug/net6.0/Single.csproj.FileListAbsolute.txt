@@ -1,0 +1,15 @@
+D:\HomeWork\Projects\Single\Single\bin\Debug\net6.0\Single.exe
+D:\HomeWork\Projects\Single\Single\bin\Debug\net6.0\Single.deps.json
+D:\HomeWork\Projects\Single\Single\bin\Debug\net6.0\Single.runtimeconfig.json
+D:\HomeWork\Projects\Single\Single\bin\Debug\net6.0\Single.dll
+D:\HomeWork\Projects\Single\Single\bin\Debug\net6.0\Single.pdb
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\Single.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\Single.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\Single.AssemblyInfoInputs.cache
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\Single.AssemblyInfo.cs
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\Single.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\Single.dll
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\refint\Single.dll
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\Single.pdb
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\Single.genruntimeconfig.cache
+D:\HomeWork\Projects\Single\Single\obj\Debug\net6.0\ref\Single.dll
